@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectGalleryPhoto</string>
+    <string name="upload_photo">ProjectUploadPhoto</string>
+</resources>
